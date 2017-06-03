@@ -38,6 +38,9 @@ public class LoginServlet extends HttpServlet {
 		
 		//Premiere modif
 		int i=0;
+		
+		//Deuxieme modif
+		int j=1;
 	}
 
 	
