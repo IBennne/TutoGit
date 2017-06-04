@@ -46,6 +46,7 @@ public class LoginServlet extends HttpServlet {
 				int k=1;
 				
 		//ajout d'un tag
+		//une autre ligne
 	}
 
 	
