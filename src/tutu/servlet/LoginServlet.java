@@ -44,6 +44,8 @@ public class LoginServlet extends HttpServlet {
 		
 		//Troisieme modif
 				int k=1;
+				
+		//ajout d'un tag
 	}
 
 	
